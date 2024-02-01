@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\Task3\\Task3.csproj": {}
+    "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\task3\\Task3.csproj": {}
   },
   "projects": {
-    "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\Task3\\Task3.csproj": {
+    "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\Task3\\Task3.csproj",
+        "projectUniqueName": "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\Task3\\Task3.csproj",
+        "projectPath": "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-        "outputPath": "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\Task3\\obj\\",
+        "outputPath": "C:\\study\\Git_r\\HomeWork_C_4\\HomeWork_C_4\\task3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config"
